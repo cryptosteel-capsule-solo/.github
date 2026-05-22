@@ -1,4 +1,4 @@
-# Cryptosteel Capsule - Offline Recovery Seed Storage for Self-Custody
+# Cryptosteel Capsule Solo - Offline Recovery Seed Storage for Self-Custody
 
 ![Banner Placeholder](https://avatars.mds.yandex.net/i?id=0289d10ff0f9285e3f0ee7671217542067df2424-12471273-images-thumbs&n=13)
 
